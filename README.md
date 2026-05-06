@@ -1,6 +1,6 @@
 ## olá, meu nome é Ana!
 
-- 👩🏼‍💻 Atualmente sou estudante do curso Tecnico em Desenvolvimento de Sistemasno SENAI
+- 👩🏼‍💻 Atualmente sou estudante do curso Tecnico em Desenvolvimento de Sistemas no SENAI
 
   ---
 
